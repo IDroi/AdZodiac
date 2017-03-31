@@ -1,5 +1,10 @@
 # ChangeLog
 
+### AdZodaic v0.0.4-beta `2016-03-31`
+
+1. add Google external network
+2. add AdZodiacSingleNative
+
 ### AdZodiac v0.0.1-beta `2016-03-27`
 
 1. Four modes: banner, interstitial, static native, recommendation
