@@ -1,5 +1,10 @@
 # ChangeLog
 
+### AdZodiac v0.1.0-beta `2016-04-10`
+
+1. Modify proguard rules
+2. Fix bugs
+
 ### AdZodaic v0.0.4-beta `2016-03-31`
 
 1. add Google external network
