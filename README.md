@@ -1,5 +1,10 @@
 # ChangeLog
 
+### AdZodiac v0.1.1-beta `2016-04-13`
+
+1. Fix typo
+2. Change AdZodiacBroswer background setting
+
 ### AdZodiac v0.1.0-beta `2016-04-10`
 
 1. Modify proguard rules
