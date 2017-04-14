@@ -1,6 +1,6 @@
 # ChangeLog
 
-### AdZodiac v0.1.1-beta `2016-04-13`
+### AdZodiac v0.1.2-beta `2016-04-14`
 
 1. Fix typo
 2. Change AdZodiacBroswer background setting
