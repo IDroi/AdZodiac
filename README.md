@@ -1,5 +1,9 @@
 # ChangeLog
 
+### AdZodiac v0.1.3-beta `2016-04-14`
+
+1. Fix setting of CustomerNo, ChannelNo, and BrandNo
+
 ### AdZodiac v0.1.2-beta `2016-04-14`
 
 1. Fix typo
