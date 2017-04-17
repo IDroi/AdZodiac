@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.idroi</groupId>
   <artifactId>adzodiac</artifactId>
-  <version>0.1.6</version>
+  <version>0.1.7</version>
   <packaging>jar</packaging>
   <description>remove AdZodiacRecommend and add AdZodiacBatchNative; change db action names</description>
 </project>
