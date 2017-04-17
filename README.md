@@ -1,5 +1,10 @@
 # ChangeLog
 
+### AdZodiac v0.1.6-beta `2016-04-17`
+
+1. remove AdZodiacRecommend and add AdZodiacBatchNative
+2. change db action names
+
 ### AdZodiac v0.1.5-beta `2016-04-17`
 
 1. change refreshTime scheme
