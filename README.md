@@ -1,5 +1,11 @@
 # ChangeLog
 
+### AdZodiac v0.1.5-beta `2016-04-17`
+
+1. change refreshTime scheme
+2. change RecommendationListener
+3. add version code in request
+
 ### AdZodiac v0.1.3-beta `2016-04-14`
 
 1. Fix setting of CustomerNo, ChannelNo, and BrandNo
