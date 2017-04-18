@@ -1,5 +1,9 @@
 # ChangeLog
 
+### AdZodiac v0.1.8-beta `2016-04-18`
+
+1. remove test mode logs
+
 ### AdZodiac v0.1.7-beta `2016-04-17`
 
 1. remove AdZodiacRecommend and add AdZodiacBatchNative
