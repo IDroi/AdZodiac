@@ -1,5 +1,10 @@
 # ChangeLog
 
+### AdZodiac v0.1.9-beta `2016-04-19`
+
+1. Fix external networks
+2. Fix event recorder
+
 ### AdZodiac v0.1.8-beta `2016-04-18`
 
 1. remove test mode logs
