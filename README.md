@@ -1,5 +1,10 @@
 # ChangeLog
 
+### AdZodiac v0.1.11-beta `2017-04-21`
+
+1. Fix AdZodiacSingleNative bugs
+2. Change NativeAdListener method names
+
 ### AdZodiac v0.1.10-beta `2017-04-20`
 
 1. Fix AdZodiacBatchNative bugs
