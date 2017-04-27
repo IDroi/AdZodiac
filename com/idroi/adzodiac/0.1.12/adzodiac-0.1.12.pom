@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.idroi</groupId>
+  <artifactId>adzodiac</artifactId>
+  <version>0.1.12</version>
+  <packaging>jar</packaging>
+  <description>
+    1. location precision 4 and TRUNCATED
+	2. AdZodiacImpressionTracker
+	3. modify AdZodiacBrowser finish()
+	4. modify GpsHelper internalFetchAdvertisingInfoAsync
+	5. add bundle in each request
+	6. add external network renderers in sample code
+  </description>
+</project>

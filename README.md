@@ -1,5 +1,14 @@
 # ChangeLog
 
+### AdZodiac v0.1.12-beta `2017-04-27`
+
+1. Change location precision to 4 and TRUNCATED
+2. Add AdZodiacImpressionTracker
+3. modify AdZodiacBrowser finish()
+4. modify GpsHelper internalFetchAdvertisingInfoAsync
+5. Add bundle in each request
+6. Add external network renderers in sample code
+
 ### AdZodiac v0.1.11-beta `2017-04-21`
 
 1. Fix AdZodiacSingleNative bugs
