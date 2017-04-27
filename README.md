@@ -1,5 +1,9 @@
 # ChangeLog
 
+### AdZodiac v0.2.1-beta `2017-04-27`
+
+1. Add error handler
+
 ### AdZodiac v0.1.12-beta `2017-04-27`
 
 1. Change location precision to 4 and TRUNCATED
