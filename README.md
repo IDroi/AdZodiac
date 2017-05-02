@@ -1,5 +1,10 @@
 # ChangeLog
 
+### AdZodiac v0.2.2-beta `2017-05-02`
+
+1. Change error interface
+2. Change log
+
 ### AdZodiac v0.2.1-beta `2017-04-27`
 
 1. Add error handler
