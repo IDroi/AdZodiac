@@ -1,5 +1,10 @@
 # ChangeLog
 
+### AdZodiac v0.2.4-beta `2017-05-05`
+
+1. Change weights when it is failed to load (Native) Ad
+2. Parallel replenish cache when it is created.
+
 ### AdZodiac v0.2.2-beta `2017-05-02`
 
 1. Change error interface
