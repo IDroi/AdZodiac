@@ -1,6 +1,6 @@
 # ChangeLog
 
-### AdZodiac v0.2.5-beta `2017-05-05`
+### AdZodiac v0.2.6-beta `2017-05-05`
 
 1. Fix retry bug
 
