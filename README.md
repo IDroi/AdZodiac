@@ -1,5 +1,9 @@
 # ChangeLog
 
+### AdZodiac v0.2.5-beta `2017-05-05`
+
+1. Fix retry bug
+
 ### AdZodiac v0.2.4-beta `2017-05-05`
 
 1. Change weights when it is failed to load (Native) Ad
