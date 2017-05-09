@@ -1,5 +1,10 @@
 # ChangeLog
 
+### AdZodiac v0.2.7-beta `2017-05-09`
+
+1. Fix AdZodiacSignleNative bug
+2. Fix FlurryAgentWrapper bug
+
 ### AdZodiac v0.2.6-beta `2017-05-05`
 
 1. Fix retry bug
