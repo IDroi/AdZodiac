@@ -1,6 +1,6 @@
 # ChangeLog
 
-### AdZodiac v0.2.9-beta `2017-05-12`
+### AdZodiac v0.2.10-beta `2017-05-12`
 
 1. Fix memory leak in recyclerview and batch native. 
 2. Replace image downloader with Fresco.
