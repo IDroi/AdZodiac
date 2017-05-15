@@ -1,6 +1,6 @@
 # ChangeLog
 
-### AdZodiac v0.2.11-beta `2017-05-15`
+### AdZodiac v0.2.12-beta `2017-05-15`
 
 1. Fix memory leak in single native.
 
