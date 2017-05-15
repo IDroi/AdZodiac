@@ -1,5 +1,9 @@
 # ChangeLog
 
+### AdZodiac v0.2.11-beta `2017-05-15`
+
+1. Fix memory leak in single native.
+
 ### AdZodiac v0.2.10-beta `2017-05-12`
 
 1. Fix memory leak in recyclerview and batch native. 
