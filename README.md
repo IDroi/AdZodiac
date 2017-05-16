@@ -1,8 +1,9 @@
 # ChangeLog
 
-### AdZodiac v0.2.12-beta `2017-05-15`
+### AdZodiac v0.2.13-beta `2017-05-15`
 
 1. Fix memory leak in single native.
+2. Fix wrap_content in Fresco
 
 ### AdZodiac v0.2.10-beta `2017-05-12`
 
