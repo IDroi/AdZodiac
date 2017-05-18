@@ -1,6 +1,6 @@
 # ChangeLog
 
-### AdZodiac v0.2.14-beta `2017-05-18`
+### AdZodiac v0.2.15-beta `2017-05-18`
 
 1. Change setActualImageScaleType schema
 
