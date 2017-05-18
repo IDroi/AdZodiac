@@ -1,5 +1,9 @@
 # ChangeLog
 
+### AdZodiac v0.2.14-beta `2017-05-18`
+
+1. Change setActualImageScaleType schema
+
 ### AdZodiac v0.2.13-beta `2017-05-15`
 
 1. Fix memory leak in single native.
