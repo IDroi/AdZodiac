@@ -1,5 +1,9 @@
 # ChangeLog
 
+### AdZodiac v0.2.17-beta `2017-05-22`
+
+1. Update Fresco evictFromMemoryCache and clearMemoryCaches
+
 ### AdZodiac v0.2.16-beta `2017-05-18`
 
 1. Change setActualImageScaleType schema
