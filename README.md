@@ -1,10 +1,11 @@
 # ChangeLog
 
-### AdZodiac v0.2.18-beta `2017-05-23`
+### AdZodiac v0.2.19-beta `2017-05-23`
 
 1. Fix CustomEventNativeListener in AdZodiacBatchNative
 2. Support gif format in image
 3. Update FacebookAdRenderer
+4. Add timeout check in external networks
 
 ### AdZodiac v0.2.17-beta `2017-05-22`
 
