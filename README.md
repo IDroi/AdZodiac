@@ -1,5 +1,11 @@
 # ChangeLog
 
+### AdZodiac v0.2.18-beta `2017-05-23`
+
+1. Fix CustomEventNativeListener in AdZodiacBatchNative
+2. Support gif format in image
+3. Update FacebookAdRenderer
+
 ### AdZodiac v0.2.17-beta `2017-05-22`
 
 1. Update Fresco evictFromMemoryCache and clearMemoryCaches
