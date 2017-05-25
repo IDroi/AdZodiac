@@ -1,5 +1,10 @@
 # ChangeLog
 
+### AdZodiac v0.2.20-beta `2017-05-25`
+
+1. Fix memory leak in clear issues
+2. Fix setLayoutParams in MediaView
+
 ### AdZodiac v0.2.19-beta `2017-05-23`
 
 1. Fix CustomEventNativeListener in AdZodiacBatchNative
