@@ -1,5 +1,11 @@
 # ChangeLog
 
+### AdZodiac v0.2.21-beta `2017-06-01`
+
+1. Support list view
+2. Support custom stream
+3. Fix isoCountryCode
+
 ### AdZodiac v0.2.20-beta `2017-05-25`
 
 1. Fix memory leak in clear issues
