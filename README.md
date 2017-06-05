@@ -1,5 +1,9 @@
 # ChangeLog
 
+### AdZodiac v0.2.22-beta `2017-06-05`
+
+1. Fix wrap content in Fresco
+
 ### AdZodiac v0.2.21-beta `2017-06-01`
 
 1. Support list view
