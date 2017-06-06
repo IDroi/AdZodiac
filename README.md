@@ -1,5 +1,9 @@
 # ChangeLog
 
+### AdZodiac v0.2.23-beta `2017-06-06`
+
+1. Fix timeout retry 
+
 ### AdZodiac v0.2.22-beta `2017-06-05`
 
 1. Fix wrap content in Fresco
