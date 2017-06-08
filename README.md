@@ -1,6 +1,6 @@
 # ChangeLog
 
-### AdZodiac v0.2.24-beta `2017-06-06`
+### AdZodiac v0.2.25-beta `2017-06-06`
 
 1. Fix timeout retry 
 
