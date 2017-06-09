@@ -1,5 +1,9 @@
 # ChangeLog
 
+### AdZodiac v0.2.26-beta `2017-06-09`
+
+1. Fix swapMargins in AdMob renderer
+
 ### AdZodiac v0.2.25-beta `2017-06-06`
 
 1. Fix timeout retry 
