@@ -1,5 +1,9 @@
 # ChangeLog
 
+### AdZodiac v0.2.28-beta `2017-06-12`
+
+1. Fix a FrameLayout wraping content bug in AdMob renderer
+
 ### AdZodiac v0.2.27-beta `2017-06-09`
 
 1. Fix swapMargins in AdMob renderer
