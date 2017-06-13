@@ -1,5 +1,9 @@
 # ChangeLog
 
+### AdZodiac v0.2.29-beta `2017-06-13`
+
+1. Update the list of KeywordParameters
+
 ### AdZodiac v0.2.28-beta `2017-06-12`
 
 1. Fix a FrameLayout wraping content bug in AdMob renderer
