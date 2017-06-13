@@ -1,6 +1,6 @@
 # ChangeLog
 
-### AdZodiac v0.2.29-beta `2017-06-13`
+### AdZodiac v0.2.30-beta `2017-06-13`
 
 1. Update the list of KeywordParameters
 
