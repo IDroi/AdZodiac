@@ -1,5 +1,9 @@
 # ChangeLog
 
+### AdZodiac v0.2.32-beta `2017-06-20`
+
+1. Add video enabled ads in AdMob renderer
+
 ### AdZodiac v0.2.31-beta `2017-06-13`
 
 1. Update the list of KeywordParameters
