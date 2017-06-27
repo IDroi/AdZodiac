@@ -2,7 +2,7 @@
   <groupId>com.idroi</groupId>
   <artifactId>adzodiac</artifactId>
   <versioning>
-    <release>0.2.33</release>
+    <release>0.2.34</release>
     <versions>
       <version>0.0.1</version>
       <version>0.0.4</version>
@@ -50,6 +50,7 @@
       <version>0.2.31</version>
       <version>0.2.32</version>
       <version>0.2.33</version>
+      <version>0.2.34</version>
     </versions>
     <lastUpdated>201706271230</lastUpdated>
   </versioning>

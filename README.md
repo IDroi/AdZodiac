@@ -1,6 +1,6 @@
 # ChangeLog
 
-### AdZodiac v0.2.33-beta `2017-06-27`
+### AdZodiac v0.2.34-beta `2017-06-27`
 
 1. Add AdZodiacAdOptions
 2. Fix a retry scheme bug in AdView
