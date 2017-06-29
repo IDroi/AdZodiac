@@ -1,5 +1,9 @@
 # ChangeLog
 
+### AdZodiac v0.2.35-beta `2017-06-29`
+
+1. Re-write to the cache for each update in percentages
+
 ### AdZodiac v0.2.34-beta `2017-06-27`
 
 1. Add AdZodiacAdOptions
