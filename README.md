@@ -1,5 +1,10 @@
 # ChangeLog
 
+### AdZodiac v0.2.36-beta `2017-07-03`
+
+1. Add a backup buffer for NativeAd
+2. Fix the process of new ImpressionTracker
+
 ### AdZodiac v0.2.35-beta `2017-06-29`
 
 1. Re-write to the cache for each update in percentages
