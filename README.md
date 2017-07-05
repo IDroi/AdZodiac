@@ -1,5 +1,10 @@
 # ChangeLog
 
+### AdZodiac v0.2.37-beta `2017-07-05`
+
+1. Release the control of ScaleType
+2. Adjust the check of AdMob ad assets
+
 ### AdZodiac v0.2.36-beta `2017-07-03`
 
 1. Add a backup buffer for NativeAd
