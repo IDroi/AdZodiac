@@ -1,6 +1,6 @@
 # ChangeLog
 
-### AdZodiac v0.2.38-beta `2017-07-07`
+### AdZodiac v0.2.39-beta `2017-07-07`
 
 1. Add the check of NoClassDefFoundError in external networks
 
