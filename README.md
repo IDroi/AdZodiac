@@ -1,5 +1,9 @@
 # ChangeLog
 
+### AdZodiac v0.2.38-beta `2017-07-07`
+
+1. Add the check of NoClassDefFoundError in external networks
+
 ### AdZodiac v0.2.37-beta `2017-07-05`
 
 1. Release the control of ScaleType
