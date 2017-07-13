@@ -1,5 +1,10 @@
 # ChangeLog
 
+### AdZodiac v0.2.40-beta `2017-07-13`
+
+1. Refine loading position and percentage schema
+2. Check third-party libraries
+
 ### AdZodiac v0.2.39-beta `2017-07-07`
 
 1. Add the check of NoClassDefFoundError in external networks
