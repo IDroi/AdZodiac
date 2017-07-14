@@ -1,6 +1,6 @@
 # ChangeLog
 
-### AdZodiac v0.2.40-beta `2017-07-13`
+### AdZodiac v0.2.41-beta `2017-07-14`
 
 1. Refine loading position and percentage schema
 2. Check third-party libraries
