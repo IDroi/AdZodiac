@@ -1,5 +1,9 @@
 # ChangeLog
 
+### AdZodiac v0.2.42-beta `2017-07-17`
+
+1. Add a choice of fill event in recorder
+
 ### AdZodiac v0.2.41-beta `2017-07-14`
 
 1. Refine loading position and percentage schema
