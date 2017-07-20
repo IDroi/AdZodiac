@@ -1,5 +1,9 @@
 # ChangeLog
 
+### AdZodiac v0.2.43-beta `2017-07-20`
+
+1. Check context in custom networks
+
 ### AdZodiac v0.2.42-beta `2017-07-17`
 
 1. Add a choice of fill event in recorder
