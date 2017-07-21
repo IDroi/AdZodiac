@@ -1,8 +1,10 @@
 # ChangeLog
 
-### AdZodiac v0.2.44-beta `2017-07-20`
+### AdZodiac v0.2.45-beta `2017-07-21`
 
 1. Check context in custom networks
+2. Remove evictFromMemoryCache in clear method
+3. Update fresco library from 0.12.0 to 1.4.0
 
 ### AdZodiac v0.2.42-beta `2017-07-17`
 
