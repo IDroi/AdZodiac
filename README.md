@@ -1,5 +1,15 @@
 # ChangeLog
 
+### AdZodiac v0.3.001-beta `2017-07-25`
+
+1. Update version encoding rules
+2. Fix an error of missing AdUUID in cloning of percentage
+3. Fix an error of mIsInit in reloading ad
+4. We change to use ad id to identify the index in list
+5. We add the condition of size = 0 in FrescoNativeImageHelper
+6. Fix the bug in disabled main and icon images
+7. Remove evictFromMemoryCache in destroy
+
 ### AdZodiac v0.2.45-beta `2017-07-21`
 
 1. Check context in custom networks

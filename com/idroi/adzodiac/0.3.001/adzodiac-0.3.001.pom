@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.idroi</groupId>
+  <artifactId>adzodiac</artifactId>
+  <version>0.3.001</version>
+  <packaging>jar</packaging>
+  <description>Update version encoding rules; Fix an error of missing AdUUID in cloning of percentage; Fix an error of mIsInit in reloading ad; We change to use ad id to identify the index in list; We add the condition of size = 0 in FrescoNativeImageHelper; Fix the bug in disabled main and icon images; Remove evictFromMemoryCache in destroy</description>
+</project>
