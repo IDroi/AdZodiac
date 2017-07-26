@@ -1,5 +1,11 @@
 # ChangeLog
 
+### Adzodiac v0.3.002-beta `2017-07-26`
+
+1. Refactor percentage source
+2. Move cache manipulation to background
+3. Remove evictFromMemoryCache in FrescoNativeImageHelper
+
 ### AdZodiac v0.3.001-beta `2017-07-25`
 
 1. Update version encoding rules
