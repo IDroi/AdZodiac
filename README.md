@@ -1,5 +1,9 @@
 # ChangeLog
 
+### AdZodiac v0.3.003-beta `2017-07-28`
+
+1. Fix pop ad issues
+
 ### Adzodiac v0.3.002-beta `2017-07-26`
 
 1. Refactor percentage source
