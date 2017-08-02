@@ -23,6 +23,11 @@ ___
 
 # ChangeLog
 
+### AdZodiac v0.3.004-beta `2017-08-02`
+
+1. Add keywords in the AdMob network
+2. Refactor notifyNeedPlacement method
+
 ### AdZodiac v0.3.003-beta `2017-07-28`
 
 1. Fix pop ad issues
