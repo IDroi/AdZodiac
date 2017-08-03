@@ -23,6 +23,10 @@ ___
 
 # ChangeLog
 
+### AdZodiac v0.3.005-beta `2017-08-03`
+
+1. Fix saving and clearing conflict issue in percentage
+
 ### AdZodiac v0.3.004-beta `2017-08-02`
 
 1. Add keywords in the AdMob network
