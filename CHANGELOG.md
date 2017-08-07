@@ -1,6 +1,6 @@
 # ChangeLog
 
-### AdZodiac v0.3.006-beta `2017-08-04`
+### AdZodiac v0.3.007-beta `2017-08-07`
 
 1. Refactor notifyNeedPlacement method
 2. Fix a clearAdsInBuffer bug in NativeAdSource
