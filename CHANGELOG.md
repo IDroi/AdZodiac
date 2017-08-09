@@ -1,5 +1,9 @@
 # ChangeLog
 
+### AdZodiac v0.3.009-beta `2017-08-09`
+
+1. Remove native Ads when it is timeout
+
 ### AdZodiac v0.3.008-beta `2017-08-08`
 
 1. Refactor notifyNeedPlacement method
