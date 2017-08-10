@@ -1,5 +1,9 @@
 # ChangeLog
 
+### AdZodiac v0.3.010-beta `2017-08-10`
+
+1. Fix preparing and clearing of different types Ads in single native class.
+
 ### AdZodiac v0.3.009-beta `2017-08-09`
 
 1. Remove native Ads when it is timeout
