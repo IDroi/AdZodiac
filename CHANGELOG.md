@@ -1,5 +1,9 @@
 # ChangeLog
 
+### AdZodiac v0.3.012-beta `2017-08-24`
+
+1. Add a public method(i.e., setCacheLimit) to set cache size
+
 ### AdZodiac v0.3.011-beta `2017-08-17`
 
 1. Refactor media view in FacebookNative
