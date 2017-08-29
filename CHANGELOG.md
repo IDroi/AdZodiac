@@ -1,5 +1,9 @@
 # ChangeLog
 
+### AdZodiac v0.3.014-beta `2017-08-29`
+
+1. Change FrescoImageLoader's parameters
+
 ### AdZodiac v0.3.013-beta `2017-08-28`
 
 1. Change fetching country code method to Locale.US
