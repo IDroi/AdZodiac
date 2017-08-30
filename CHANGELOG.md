@@ -1,5 +1,9 @@
 # ChangeLog
 
+### AdZodiac v0.3.015-beta `2017-08-30`
+
+1. Refactor Fresco helper class
+
 ### AdZodiac v0.3.014-beta `2017-08-29`
 
 1. Change FrescoImageLoader's parameters
