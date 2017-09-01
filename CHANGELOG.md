@@ -1,5 +1,9 @@
 # ChangeLog
 
+### AdZodiac v0.3.016-beta `2017-09-01`
+
+1. Refactor AdMob renderer
+
 ### AdZodiac v0.3.015-beta `2017-08-30`
 
 1. Refactor Fresco helper class
