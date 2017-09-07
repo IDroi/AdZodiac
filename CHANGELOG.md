@@ -1,5 +1,9 @@
 # ChangeLog
 
+### AdZodiac v0.3.017-beta `2017-09-07`
+
+1. Refactor FrescoNativeImageHelper
+
 ### AdZodiac v0.3.016-beta `2017-09-01`
 
 1. Refactor AdMob renderer
