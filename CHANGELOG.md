@@ -1,5 +1,9 @@
 # ChangeLog
 
+### AdZodiac v0.3.018-beta `2017-09-29`
+
+1. Check Flurry ad assets
+
 ### AdZodiac v0.3.017-beta `2017-09-07`
 
 1. Refactor FrescoNativeImageHelper
