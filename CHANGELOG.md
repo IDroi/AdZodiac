@@ -1,5 +1,9 @@
 # ChangeLog
 
+### AdZodiac v0.3.019-beta `2017-10-25`
+
+1. Fix core initialization
+
 ### AdZodiac v0.3.018-beta `2017-09-29`
 
 1. Check Flurry ad assets
