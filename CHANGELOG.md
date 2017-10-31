@@ -1,5 +1,10 @@
 # ChangeLog
 
+### AdZodiac v0.3.020-beta `2017-10-31`
+
+1. Change fetching iso country code method to background thread
+2. Fix the null pointer problem in google native ad
+
 ### AdZodiac v0.3.019-beta `2017-10-25`
 
 1. Fix core initialization
