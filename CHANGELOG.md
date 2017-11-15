@@ -1,5 +1,9 @@
 # ChangeLog
 
+### AdZodiac v0.3.021-beta `2017-11-15`
+
+1. Fix null pointer problem in cache onPostExecute
+
 ### AdZodiac v0.3.020-beta `2017-10-31`
 
 1. Change fetching iso country code method to background thread
