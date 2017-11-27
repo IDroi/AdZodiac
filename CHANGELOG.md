@@ -1,5 +1,10 @@
 # ChangeLog
 
+### AdZodiac v0.3.022-beta `2017-11-27`
+
+1. Fix null pointer problem in handleFailure
+2. Fix iso country code fetching problem
+
 ### AdZodiac v0.3.021-beta `2017-11-15`
 
 1. Fix null pointer problem in cache onPostExecute
