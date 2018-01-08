@@ -1,5 +1,9 @@
 # ChangeLog
 
+### AdZodiac v0.3.023-beta `2018-01-08`
+
+1. Add AdZodiacNativeEventListener interface
+
 ### AdZodiac v0.3.022-beta `2017-11-27`
 
 1. Fix null pointer problem in handleFailure
