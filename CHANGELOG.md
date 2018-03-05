@@ -1,5 +1,9 @@
 # ChangeLog
 
+### AdZodiac v0.3.024-beta `2018-03-05`
+
+1. Fix getAdStarRating in Facebook network
+
 ### AdZodiac v0.3.023-beta `2018-01-08`
 
 1. Add AdZodiacNativeEventListener interface
