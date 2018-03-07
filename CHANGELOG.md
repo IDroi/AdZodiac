@@ -1,5 +1,9 @@
 # ChangeLog
 
+### AdZodiac v0.3.025-beta `2018-03-07`
+
+1. Retrieve AdZodiac native ad view by id in AdMob
+
 ### AdZodiac v0.3.024-beta `2018-03-05`
 
 1. Fix getAdStarRating in Facebook network
