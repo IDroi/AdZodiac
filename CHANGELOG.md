@@ -1,5 +1,9 @@
 # ChangeLog
 
+### AdZodiac v0.3.026-beta `2018-03-08`
+
+1. Fix undefined layout id crash bug
+
 ### AdZodiac v0.3.025-beta `2018-03-07`
 
 1. Retrieve AdZodiac native ad view by id in AdMob
