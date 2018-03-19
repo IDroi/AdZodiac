@@ -1,5 +1,8 @@
 # ChangeLog
 
+### AdZodiac v0.3.027-beta `2018-03-19`
+1. Fix getLayoutParams is null bug in AdMob
+
 ### AdZodiac v0.3.026-beta `2018-03-08`
 
 1. Fix undefined layout id crash bug
