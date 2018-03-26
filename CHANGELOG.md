@@ -1,5 +1,9 @@
 # ChangeLog
 
+### AdZodiac v0.3.029-beta `2018-03-26`
+
+1. Fix bugs in AdMob
+
 ### AdZodiac v0.3.028-beta `2018-03-20`
 
 1. Fix getDefaultUserAgent unexpected error
