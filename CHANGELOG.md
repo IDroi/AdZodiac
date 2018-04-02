@@ -1,5 +1,9 @@
 # ChangeLog
 
+### AdZodiac v0.3.030-beta `2018-04-02`
+
+1. Add Millennial Media network
+
 ### AdZodiac v0.3.029-beta `2018-03-26`
 
 1. Fix bugs in AdMob
