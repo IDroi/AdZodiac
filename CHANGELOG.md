@@ -1,5 +1,10 @@
 # ChangeLog
 
+### AdZodiac v0.3.031-beta `2018-04-10`
+
+1. Add rewarded video: AdMob and One by AOL
+2. Add event tracker in rewarded video
+
 ### AdZodiac v0.3.030-beta `2018-04-02`
 
 1. Add Millennial Media network
