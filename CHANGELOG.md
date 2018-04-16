@@ -1,5 +1,9 @@
 # ChangeLog
 
+### AdZodiac v0.3.032-beta `2018-04-16`
+
+1. Add Flurry rewarded video ad
+
 ### AdZodiac v0.3.031-beta `2018-04-10`
 
 1. Add rewarded video: AdMob and One by AOL
