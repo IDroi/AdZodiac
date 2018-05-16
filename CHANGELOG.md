@@ -1,5 +1,9 @@
 # ChangeLog
 
+### AdZodiac v0.3.033-beta `2018-05-16`
+
+1. Fix address and country code problem
+
 ### AdZodiac v0.3.032-beta `2018-04-16`
 
 1. Add Flurry rewarded video ad
