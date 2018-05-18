@@ -1,5 +1,10 @@
 # ChangeLog
 
+### AdZodiac v0.3.034-beta `2018-05-18`
+
+1. Add AdColony rewarded vidoe network
+2. Fix markLoaded and markFail logic
+
 ### AdZodiac v0.3.033-beta `2018-05-16`
 
 1. Fix address and country code problem
