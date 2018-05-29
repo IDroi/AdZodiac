@@ -1,5 +1,11 @@
 # ChangeLog
 
+### AdZodiac v0.3.035-beta `2018-05-29`
+
+1. Add ChartBoost rewarded video network
+2. Fix markFail problem
+3. Fix reload percentage problem in rewarded video
+
 ### AdZodiac v0.3.034-beta `2018-05-18`
 
 1. Add AdColony rewarded vidoe network
