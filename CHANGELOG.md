@@ -1,5 +1,10 @@
 # ChangeLog
 
+### AdZodiac v0.3.036-beta `2018-06-19`
+
+1. Fix Facebook audience network version to 4.28.+
+2. Add facebook lite app to filter
+
 ### AdZodiac v0.3.035-beta `2018-05-29`
 
 1. Add ChartBoost rewarded video network
