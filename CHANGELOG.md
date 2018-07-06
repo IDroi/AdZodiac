@@ -1,5 +1,9 @@
 # ChangeLog
 
+### AdZodiac v0.3.037-beta `2018-07-06`
+
+1. Fix ANR on Facebook loadAd and WebSettings.getDefaultUserAgent
+
 ### AdZodiac v0.3.036-beta `2018-06-19`
 
 1. Fix Facebook audience network version to 4.28.+
