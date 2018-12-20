@@ -1,5 +1,11 @@
 # ChangeLog
 
+### AdZodiac v0.3.100-beta `2018-12-20`
+
+1. upgrade gms play-services to 16.+
+2. upgrade facebook audience-network-sdk to 5.+
+3. upgrade facebook native ad
+
 ### AdZodiac v0.3.037-beta `2018-07-06`
 
 1. Fix ANR on Facebook loadAd and WebSettings.getDefaultUserAgent
