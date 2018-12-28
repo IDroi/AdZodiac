@@ -1,5 +1,9 @@
 # ChangeLog
 
+### AdZodiac v0.3.101-beta `2018-12-28`
+
+1. Fix some bugs
+
 ### AdZodiac v0.3.100-beta `2018-12-20`
 
 1. upgrade gms play-services to 16.+
