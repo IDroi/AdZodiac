@@ -1,5 +1,9 @@
 # ChangeLog
 
+### AdZodiac v0.3.102-beta `2019-01-14`
+
+1. Add placeAdsInRangeInstantly method in AdZodiacStreamAdPlacer
+
 ### AdZodiac v0.3.101-beta `2018-12-28`
 
 1. Fix some bugs
